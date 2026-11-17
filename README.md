@@ -11,6 +11,13 @@
 <p>
   <img src="https://img.shields.io/badge/CS_student-1a1b27?style=flat-square&logo=googlescholar&logoColor=BB9AF7" />
   <img src="https://img.shields.io/badge/Montreal,_QC-1a1b27?style=flat-square&logo=googlemaps&logoColor=BB9AF7" />
+  <img src="https://komarev.com/ghpvc/?username=maxiDeee&label=views&color=1a1b27&style=flat-square" />
 </p>
+
+<br />
+
+<h3>🛠️ Tech Stack</h3>
+
+<img src="https://skillicons.dev/icons?i=py,java,cpp,cs,ts,mysql,bash&theme=dark" />
 
 </div>
