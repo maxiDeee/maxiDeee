@@ -9,7 +9,7 @@
 </a>
 
 <p>
-  <img src="https://img.shields.io/badge/CS_student-1a1b27?style=flat-square&logo=googlescholar&logoColor=BB9AF7" />
+  <img src="https://img.shields.io/badge/English_·_Français_·_中文-1a1b27?style=flat-square&logo=googletranslate&logoColor=BB9AF7" />
   <img src="https://img.shields.io/badge/Montreal,_QC-1a1b27?style=flat-square&logo=googlemaps&logoColor=BB9AF7" />
   <img src="https://komarev.com/ghpvc/?username=maxiDeee&label=views&color=1a1b27&style=flat-square" />
 </p>
